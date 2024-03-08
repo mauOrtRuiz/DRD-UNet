@@ -1,0 +1,16 @@
+,xmin,ymin,xmax,ymax,mask_link,,,,mag,Vector_orientate_1,Vector_orientate_2,Vector_orientate_3,Vector_orientate_4,Vector_orientate_5
+TCGA-A1-A0SP-DX1,6798,53719,12556,57797,https://ndownloader.figshare.com/files/13243679,,,,40,0,1,1,3426,4838
+TCGA-A2-A0ST-DX1,109446,18274,115976,23870,https://ndownloader.figshare.com/files/13243691,,,,40,0,1,1,4626,5398
+TCGA-A2-A3XU-DX1,33329,26157,39031,29813,https://ndownloader.figshare.com/files/13243718,,,,40,0,1,1,2992,4667
+TCGA-A7-A4SD-DX1,53807,11871,56311,15631,https://ndownloader.figshare.com/files/13243742,,,,40,0,1,1,3093,2059
+TCGA-A7-A6VW-DX1,69350,15716,73148,19560,https://ndownloader.figshare.com/files/13243754,,,,40,0,1,1,3146,3109
+TCGA-AO-A129-DX1,37502,12501,41866,14461,https://ndownloader.figshare.com/files/13243835,,,,20,0,1,1,3261,7261
+TCGA-AO-A1KR-DX1,19591,37667,23307,39561,https://ndownloader.figshare.com/files/13243820,,,,20,0,1,1,3143,6167
+TCGA-BH-A0B9-DX1,62727,56697,69780,64604,https://ndownloader.figshare.com/files/13243886,,,,40,-54,3042,1462,5624,7326
+TCGA-D8-A1JL-DX1,39765,24835,51622,32696,https://ndownloader.figshare.com/files/13243958,,,,40,19,2846,1212,6437,10170
+TCGA-E2-A1AZ-DX1,50286,17075,53580,20779,https://ndownloader.figshare.com/files/13243988,,,,40,0,1,1,3047,2709
+TCGA-E2-A1LS-DX1,39247,47756,42427,50590,https://ndownloader.figshare.com/files/13244009,,,,40,0,1,1,2342,2628
+TCGA-E2-A574-DX1,54962,47475,60133,52922,https://ndownloader.figshare.com/files/13244033,,,,40,48,2331,805,3818,5375
+TCGA-LL-A740-DX1,39436,24080,42792,27426,https://ndownloader.figshare.com/files/13244102,,,,40,0,1,1,2818,2826
+TCGA-OL-A6VO-DX1,88416,188485,93727,193952,https://ndownloader.figshare.com/files/13244114,,,,40,42,780,1340,3348,2814
+TCGA-S3-AA15-DX1,55486,28926,57700,31676,https://ndownloader.figshare.com/files/13244129,,,,40,0,1,1,2316,1864
